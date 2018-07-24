@@ -52,3 +52,4 @@ public class ContactsPage extends TestBase {
 	}
 	
 }
+//end of this page
